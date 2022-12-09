@@ -1,0 +1,14 @@
+2022-11-30 18:43:39 [INFO   ] javafxapplication.JavaFXApplication - Start programm 
+2022-11-30 18:43:39 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-11-30 18:43:39 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-11-30 18:43:39 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-11-30 18:43:39 [INFO   ] javafxapplication.JavaFXApplication - Some message 
+2022-11-30 18:43:39 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-11-30 18:43:40 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 
+2022-12-09 18:19:57 [INFO   ] javafxapplication.JavaFXApplication - Start programm 
+2022-12-09 18:19:57 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-12-09 18:19:57 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-12-09 18:19:57 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-12-09 18:19:57 [INFO   ] javafxapplication.JavaFXApplication - Some message 
+2022-12-09 18:19:57 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-12-09 18:19:58 [INFO   ] javafxapplication.JavaFXApplication - Launcher is running 

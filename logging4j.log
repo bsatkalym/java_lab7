@@ -1,0 +1,11 @@
+2022-11-30 18:43:43 [INFO ] FXMLDocumentController:55 - Start log4j
+2022-11-30 18:43:43 [INFO ] FXMLDocumentController:56 - Hi Logger info!
+2022-11-30 18:43:43 [WARN ] FXMLDocumentController:57 - Warrning!
+2022-11-30 18:43:43 [ERROR] FXMLDocumentController:58 - Error!
+2022-11-30 18:43:43 [FATAL] FXMLDocumentController:59 - Fatal error!
+2022-11-30 18:43:43 [INFO ] FXMLDocumentController:60 - End log4j
+2022-12-09 18:20:03 [INFO ] FXMLDocumentController:55 - Start log4j
+2022-12-09 18:20:03 [INFO ] FXMLDocumentController:56 - Hi Logger info!
+2022-12-09 18:20:03 [WARN ] FXMLDocumentController:57 - Warrning!
+2022-12-09 18:20:03 [ERROR] FXMLDocumentController:58 - Error!
+2022-12-09 18:20:03 [FATAL] FXMLDocumentController:59 - Fatal error!
